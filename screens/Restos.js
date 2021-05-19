@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 export default function Restos() {
     return (
         <View>
-            <Text>Restos</Text>
+            <Text>Contenido  Restos</Text>
         </View>
     )
 }
